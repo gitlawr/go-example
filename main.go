@@ -11,4 +11,6 @@ func main() {
 	aws_secret := "AKIAIMNOJVGFDXXXE4OA"
 	logrus.Info(aws_secret)
 
+	aws_secret2 := "AKIAIMNOJVGFDXXXE4OB"
+        logrus.Info(aws_secret2)
 }
